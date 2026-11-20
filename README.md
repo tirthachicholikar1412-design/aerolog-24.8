@@ -18,3 +18,6 @@ Online simulators like OpenRocket predict rocket performance under ideal conditi
 
 ### Parachute Recovery Calculation
 ![Recovery Calculation](IMG_3251.jpeg)
+
+### Raw Drawings
+![Handrawn Frame](IMG_3659.jpeg)
