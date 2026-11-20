@@ -8,3 +8,13 @@ Online simulators like OpenRocket predict rocket performance under ideal conditi
 * Completed preliminary engineering drawings and fin geometry calculations (24.8 mm body diameter, 300 mm total length, 165 mm CG).
 * Modeled trajectory and recovery parameters in simulation software (27.4 cm flat parachute for a 4.5 m/s descent rate).
 * Next phase: Sourcing materials and onboard measurement electronics to construct and test the physical prototype under adult technical supervision.
+## Engineering Drawings & Simulations
+
+### Airframe & Fin Geometry
+![Airframe Drawing](9EE21669-5228-427D-8076-6A6649FAB23C.png)
+
+### Flight Trajectory Prediction
+![Trajectory Prediction](IMG_3253.jpeg)
+
+### Parachute Recovery Calculation
+![Recovery Calculation](IMG_3251.jpeg)
